@@ -22,7 +22,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Tutorial
 * [Multi-Agent Reinforcement Learning](http://swarmlab.unimaas.nl/ala2014/tutorials/marl_introduction.pdf) by Daan Bloembergen. AAMAS, 2014.
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
-* [Multiagent Learning: A Game Theoretic Perspective](https://www.cs.rutgers.edu/~mlittman/talks/ijcai03-games/) by Michael Bowling and Michael L. Littman. IJCAI, 2003. 
+* [Multiagent Learning: A Game Theoretic Perspective](https://www.cs.rutgers.edu/~mlittman/talks/ijcai03-games/) by Michael Bowling and Michael L. Littman. IJCAI, 2003.
 
 ## Review Papers
 * [Evolutionary Dynamics of Multi-Agent Learning: A Survey](https://jair.org/media/4818/live-4818-8818-jair.pdf) by Bloembergen, Daan, et al. JAIR, 2015.
@@ -32,6 +32,7 @@ The sharing principle of these references here is for research. If any authors d
 * [From single-agent to multi-agent reinforcement learning: Foundational concepts and methods](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/learningNeto05.pdf) by Neto G. Learning theory course, 2005.
 * [Evolutionary game theory and multi-agent reinforcement learning](https://pdfs.semanticscholar.org/bb9f/bee22eae2b47bbf304804a6ac07def1aecdb.pdf) by Tuyls K, Nowé A. The Knowledge Engineering Review, 2005.
 * [An Overview of Cooperative and Competitive Multiagent Learning](https://www.researchgate.net/publication/221622801_An_Overview_of_Cooperative_and_Competitive_Multiagent_Learning) by Pieter Jan ’t HoenKarl TuylsLiviu PanaitSean LukeJ. A. La Poutré. AAMAS's workshop LAMAS, 2005.
+* [Cooperative Multi-Agent Learning: The State of the Art](https://pdfs.semanticscholar.org/6821/b56b86726bf7c0dc88e1ee87768539a96262.pdf) by Liviu Panait and Sean Luke. AAMAS, 2005.
 
 ## Research Papers
 
