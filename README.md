@@ -66,6 +66,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Opponent Modeling in Deep Reinforcement Learning](http://www.umiacs.umd.edu/~hal/docs/daume16opponent.pdf) by He H, Boyd-Graber J, Kwok K, et al. ICML, 2016.
 * [Multiagent cooperation and competition with deep reinforcement learning](https://arxiv.org/pdf/1511.08779.pdf) by Tampuu A, Matiisen T, Kodelja D, et al. arXiv, 2015.
 * [Emotional multiagent reinforcement learning in social dilemmas](http://www.uow.edu.au/~fren/documents/EMR_2013.pdf) by Yu C, Zhang M, Ren F. International Conference on Principles and Practice of Multi-Agent Systems, 2013.
+* [Coco-Q: Learning in Stochastic Games with Side Payments](http://jmlr.org/proceedings/papers/v28/sodomka13.pdf) by Eric Sodomka, Elizabeth M. Hilliard, Michael L. Littman, Amy Greenwald. ICML, 2013.
 * [Multi-agent reinforcement learning in common interest and fixed sum stochastic games: An experimental study](http://www.jmlr.org/papers/volume9/bab08a/bab08a.pdf) by Bab, Avraham, and Ronen I. Brafman. Journal of Machine Learning Research, 2008.
 * [Combining policy search with planning in multi-agent cooperation](https://pdfs.semanticscholar.org/5120/d9f2c738ad223e9f8f14cb3fd5612239a35c.pdf) by Ma J, Cameron S. Robot Soccer World Cup, 2008.
 * [Collaborative multiagent reinforcement learning by payoff propagation](http://www.jmlr.org/papers/volume7/kok06a/kok06a.pdf) by Kok J R, Vlassis N. JMLR, 2006.
